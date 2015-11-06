@@ -1,0 +1,26 @@
+{
+  "name": "fangular",
+  "version": "0.1.0",
+  "description": "Lightweight version of AngularJS' dependency injection module loading.",
+  "main": "fangular.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassoncs/fangular.git"
+  },
+  "keywords": [
+    "angularjs",
+    "di",
+    "injection",
+    "headless",
+    "nodejs"
+  ],
+  "author": "Chris Hasson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hassoncs/fangular/issues"
+  },
+  "homepage": "https://github.com/hassoncs/fangular#readme"
+}
